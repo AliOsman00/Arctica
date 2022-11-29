@@ -1,0 +1,65 @@
+.clear:after {
+    display: block;
+    content: '';
+    clear: both;
+}
+.shell {
+    max-width: 1170px;
+    margin: 0 auto;
+}
+ #about-us, #skills, #blog {
+    font-family: 'latoregular';
+    font-weight: 400;
+}   
+.nopadding {
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+    /*TEXT Colors*/
+.white-clr {
+    color: #fff;
+}
+.lgrey-clr {
+    color: #c8cacf;
+}
+.grey-clr {
+    color: #90959F;
+}
+.blgrey-clr {
+    color: #7f90a5;
+}
+.dgrey-clr {
+    color: #8a8f98;
+}
+.blue-clr {
+    color: #3d506f; 
+}
+.dblue-clr {
+    color: #161f32;
+}
+    /*BACKGROUNDS Colors*/
+.gwhite-bclr {
+    background-color: #fbfbfb;
+}
+.lblue-bclr {
+    background-color: #546279;
+}
+.blue-bclr {
+    background-color: #151f31;
+}
+.gblue-bclr {
+    background-color: #3d4f6f;
+}
+.denim-bclr{
+    background-color: #3d506f;
+}
+.denimdark-bclr {
+    background-color: #222c3f;
+}
+.dblue-bclr {
+    background-color: #161f32;;
+}
+.pink-bclr {
+    background-color: #f646df;
+}

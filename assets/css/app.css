@@ -1,0 +1,26 @@
+@import url('bootstrap.css');
+@import url('reset.css');
+@import url('fonts.css');
+@import url('general.css');
+
+/*Stanislav header + section*/
+@import url('header.css');
+@import url('landing-info.css');
+@import url('header-services.css');
+@import url('header-quote.css');
+@import url('main-separator.css');
+@import url('hamburger-menu.css');
+/*Stanislava - Portfolio*/
+@import url('portfolio.css');
+/*Svetoslav - about-us + skills*/
+@import url('about-us.css');
+@import url('skills.css');
+/*Ali Said - Blog*/
+@import url('blog-title-menu.css');
+@import url('blog-gallery.css');
+@import url('blog-newsletter.css');
+/*Ali Osman section + footer*/
+@import url('section_clients.css');
+@import url('contact_us.css');
+@import url('footer.css');
+
